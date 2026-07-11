@@ -1,0 +1,8 @@
+main [style*="opacity:0"],
+main [style*="opacity: 0"] {
+  opacity: 1 !important;
+}
+
+main [style*="transform:"] {
+  transform: none !important;
+}
