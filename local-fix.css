@@ -1,3 +1,4 @@
+/* Ensure SSR elements hidden by Framer Motion become visible */
 main [style*="opacity:0"],
 main [style*="opacity: 0"] {
   opacity: 1 !important;
@@ -5,4 +6,30 @@ main [style*="opacity: 0"] {
 
 main [style*="transform:"] {
   transform: none !important;
+}
+
+/* Hide the awkward SSR empty picture frame rectangles stuck in the hero background */
+#home .pointer-events-none .border.border-black\/10.bg-white\/40,
+#home .pointer-events-none .border.border-black\/10 {
+  display: none !important;
+}
+
+/* Refine hero background ambience: subtle, soft artistic glow */
+#home .opacity-60 {
+  opacity: 0.3 !important;
+  filter: blur(50px);
+}
+
+/* Smooth background transition across sections */
+body {
+  background-color: #faf9f6 !important;
+}
+
+main {
+  background-color: #faf9f6 !important;
+}
+
+/* Ensure images have smooth contrast */
+img {
+  image-rendering: -webkit-optimize-contrast;
 }

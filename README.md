@@ -1,11 +1,11 @@
-# THAKUR ART — Interactive Art Showcase & Prank Experience
+# CRDYART — Interactive Art Showcase & Prank Experience
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Web%20Browser-orange.svg)]()
 [![Type](https://img.shields.io/badge/Type-Static%20Client--Side-green.svg)]()
 [![Hosting](https://img.shields.io/badge/GitHub%20Pages-Compatible-brightgreen.svg)]()
 
-An interactive web project cleverly disguised as an ultra-clean, modern contemporary artist portfolio (**THAKUR ART**). Behind the curated art collection and minimalist design lies an interactive jumpscare prank experience featuring high-frequency visual glitches, strobe overlays, dynamic audio loops, and history trap routines.
+An interactive web project cleverly disguised as an ultra-clean, modern contemporary artist portfolio (**CRDYART**). Behind the curated art collection and minimalist design lies an interactive jumpscare prank experience featuring high-frequency visual glitches, strobe overlays, dynamic audio loops, and history trap routines.
 
 ---
 
