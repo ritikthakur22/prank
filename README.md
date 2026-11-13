@@ -1,17 +1,17 @@
-# KEXART — Interactive Art Showcase & Prank Experience
+# THAKUR ART — Interactive Art Showcase & Prank Experience
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Web%20Browser-orange.svg)]()
 [![Type](https://img.shields.io/badge/Type-Static%20Client--Side-green.svg)]()
 [![Hosting](https://img.shields.io/badge/GitHub%20Pages-Compatible-brightgreen.svg)]()
 
-An interactive web project cleverly disguised as an ultra-clean, modern contemporary artist portfolio (**KEXART**). Behind the curated art collection and minimalist design lies an interactive jumpscare prank experience featuring high-frequency visual glitches, strobe overlays, dynamic audio loops, and history trap routines.
+An interactive web project cleverly disguised as an ultra-clean, modern contemporary artist portfolio (**THAKUR ART**). Behind the curated art collection and minimalist design lies an interactive jumpscare prank experience featuring high-frequency visual glitches, strobe overlays, dynamic audio loops, and history trap routines.
 
 ---
 
 ## Overview
 
-Visitors are presented with an elegant portfolio for contemporary painter *Mayank Parmar*, showcasing abstract oil paintings, studio exhibition histories, and art commission options. 
+Visitors are presented with an elegant portfolio for contemporary painter *Ritik Thakur*, showcasing abstract oil paintings, studio exhibition histories, and art commission options. 
 
 When a visitor interacts with call-to-action buttons (such as *Explore Gallery*, *Commission*, or general page gestures), the application transitions into an intense, synchronized prank sequence.
 

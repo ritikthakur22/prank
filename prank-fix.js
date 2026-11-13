@@ -28,9 +28,9 @@
     overlay.id = 'chuche-overlay';
     overlay.innerHTML = '<div class="prank-fix-text">' +
       '<div class="prank-fix-small">Presented by</div>' +
-      '<div class="prank-fix-main">CHUCHE</div>' +
-      '<div class="prank-fix-small">Developer: dzinoo</div>' +
-      '<div class="prank-fix-small">Creator: @maze_irl</div>' +
+      '<div class="prank-fix-main">CHUCHA</div>' +
+      '<div class="prank-fix-small">Developer: crdy</div>' +
+      '<div class="prank-fix-small">Creator: @22ritikthakur</div>' +
       '</div>';
     document.body.appendChild(overlay);
 
